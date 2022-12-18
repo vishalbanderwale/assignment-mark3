@@ -57,9 +57,8 @@ h1{
         list-style:none;
     }
     .list-item-inline{
-        display :inline;
-        
-        padding:1rem,2rem;
+        display:inline;
+        padding:0rem 2rem;
     }
     .navigation{ 
         background-color: var(--primary-color);
@@ -112,6 +111,7 @@ h1{
     }
     .on{
         background-color:ghostwhite
+    
         
     }
     .fame{
@@ -147,3 +147,6 @@ h1{
     .link{
         font-size:large;
     }
+.center{
+    text-align:center;
+}
