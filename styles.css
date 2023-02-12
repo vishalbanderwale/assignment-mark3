@@ -30,6 +30,7 @@ h1{
     .link{
         text-decoration: none;
         padding:0rem 1rem;
+          margin:0;
     }
     
     
@@ -54,20 +55,27 @@ h1{
     .list-non-bullet{
         list-style:none;
         padding:orem 2rem;
+          margin:0;
 
     }
     .list-non-bullet{
         list-style:none;
+          margin:0;
     }
     .list-item-inline{
         display:inline;
         padding:0rem 2rem;
+        
+        
+        
+        margin:0;
     }
     .navigation{ 
         background-color: var(--primary-color);
         color:blue;
         padding:2rem;
         border-bottom-left-radius:1rem;
+         margin:0;
         
     }
     .link-sec{
@@ -75,20 +83,25 @@ h1{
         padding:1rem;
         font-size:2rem; 
         text-decoration:none;
+         margin:0;
     }
     .navigation .nav-pills{
         text-align:right;
+         margin:0;
     }
     .nav-brand{
         font-size:xx-large;
+         margin:0;
     }
     .link-active{
         font-weight:bold;
         font-size:2rem;
         padding:1rem;
+         margin:0;
     }
     .hero{
         padding:2rem;
+         margin:0;
     }
     .hero-img{
         max-width:350px;
@@ -99,6 +112,7 @@ h1{
         text-align:center;
         padding-top:1rem;
         color:blueviolet;
+         margin:0;
     }
     .heading-inverted{
         color:rgb(0, 0, 0);
@@ -108,24 +122,30 @@ h1{
         text-align:center;
         padding:1rem;
         color:black;
+         margin:0;
     }
     .section-center{
         text-align:center;
+         margin:0;
     }
     .on{
         background-color:ghostwhite
+             margin:0;
     
         
     }
     .fame{
         font-size:large;
+         margin:0;
     }
     .fam{
         padding-bottom:2rem;
         font-size:large;
+         margin:0;
     }
     .fam-extend{
            font-size:large;
+         margin:0;
     }
     
     .footer-line{
@@ -144,14 +164,18 @@ h1{
     }
     .footer.link{
         color:blue
+            margin:0;
 
     }
     .footer-header{
         font-size:x-large
+             margin:0;
     }
     .link{
         font-size:large;
+         margin:0;
     }
 .center{
     text-align:center;
+    margin:0;
 }
